@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -35,5 +42,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="737" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1680.163.1680.1010@0.0.1920.1040" timestamp="1596921982519" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1596922078004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1680.163.1680.1010@0.0.1920.1040" timestamp="1596922078004" />
   </component>
 </project>
